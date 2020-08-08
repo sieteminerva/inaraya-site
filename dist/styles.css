@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    place-items: center;
+}
+
+.info {
+    position: relative;
+    width: 80%;
+    font-family: sans-serif;
+    font-size: 5rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
