@@ -1,0 +1,14 @@
+npm-debug.log*
+$RECYCLE.BIN/
+.DS_Store
+Thumbs.db
+.idea/
+.sourcemaps/
+.sass-cache/
+.tmp/
+.vscode/
+/node_modules
+/src
+/data
+prepros-6.config
+prepros.config
